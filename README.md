@@ -1,3 +1,6 @@
+![Android](https://img.shields.io/badge/Android-Developer-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-Developer-blue)
+![FullStack](https://img.shields.io/badge/FullStack-Developer-orange)
 <h1 align="center">Hi 👋, I'm Prayas Dhand</h1>
 <h3 align="center">Android & Full Stack Software Engineer</h3>
 
